@@ -7,7 +7,6 @@ This repository contains the implementation of an image dehazing algorithm that 
 - [Introduction](#introduction)
 - [Features](#features)
 - [Usage](#usage)
-- [Example](#example)
 - [Methodology](#methodology)
 - [Results](#results)
 - [Contributing](#contributing)
@@ -35,14 +34,6 @@ Hazy images often suffer from reduced contrast and clarity due to particles like
     ```
 
 3. The dehazed images will be saved in the `./test/predicted/` directory.
-
-## Example
-
-Original Image:
-![Original Image](./test/low/sample.png)
-
-Enhanced Image:
-![Enhanced Image](./test/predicted/sample.png)
 
 ## Methodology
 
