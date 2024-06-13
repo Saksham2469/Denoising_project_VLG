@@ -12,7 +12,6 @@ This repository contains the implementation of an image dehazing algorithm that 
 - [Results](#results)
 - [Contributing](#contributing)
 
-- 
 ## Introduction
 
 Hazy images often suffer from reduced contrast and clarity due to particles like dust and smoke in the air. This project addresses these issues by implementing a dehazing algorithm that combines several image processing techniques to enhance image quality.
