@@ -31,7 +31,7 @@ Hazy images often suffer from reduced contrast and clarity due to particles like
 
 2. Run the script:
     ```bash
-    python dehaze.py
+    python main.py
     ```
 
 3. The dehazed images will be saved in the `./test/predicted/` directory.
